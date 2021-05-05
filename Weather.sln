@@ -11,6 +11,7 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Description = Return min spread of temp
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C965A8F0-A045-46BB-A2E8-1D4F8D927ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
