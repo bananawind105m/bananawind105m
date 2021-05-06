@@ -50,8 +50,9 @@ namespace Weather
             Max = Min = holdMax = holdMin = 0.0;
             //spread is initialized to 10000 to make sure spreadtmp is < spread initially
             spread = 10000.0;
+            string tmpStr = processWeatherData();
 #if DEBUG
-            Console.WriteLine(processWeatherData());
+            Console.WriteLine(tmpStr);
 #endif
             Console.WriteLine(getMinSpread());
         }
