@@ -1,12 +1,12 @@
 ﻿// ***********************************************************************
 // Assembly         : Weather
-// Author           : anthony
+// Author           : Anthony Cox
 // Created          : 05-05-2021
 //
-// Last Modified By : anthony
+// Last Modified By : Anthony Cox
 // Last Modified On : 05-05-2021
 // ***********************************************************************
-// <copyright file="Program.cs" company="Weather">
+// <copyright file="Program.cs" company="TLC Software.net, LLC">
 //     Copyright (c) . All rights reserved.
 // </copyright>
 // <summary></summary>
